@@ -3,29 +3,26 @@
 @{
     ViewData["Title"] = "Index";
 }
-
-<h1>Index</h1>
-
 <p>
-    <a asp-action="Create">Create New</a>
+    <a class="btn btn-out btn-success btn-square" asp-action="Create">Create New</a>
 </p>
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.CatDetailsId)
+                <strong>#</strong>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CatDetailsName)
+                Danh Mục
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Status)
+                Trạng thái
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IsDeleted)
+                Bị Xóa
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CategoryName)
+                Thể Loại
             </th>
             <th></th>
         </tr>
