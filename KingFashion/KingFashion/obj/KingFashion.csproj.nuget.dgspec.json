@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\Project\\KingFashion\\KingFashion\\KingFashion.csproj": {}
+    "D:\\HocTap\\Project\\King_Fashion\\KingFashion\\KingFashion\\KingFashion.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\Project\\KingFashion\\KingFashion\\KingFashion.csproj": {
+    "D:\\HocTap\\Project\\King_Fashion\\KingFashion\\KingFashion\\KingFashion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\Project\\KingFashion\\KingFashion\\KingFashion.csproj",
+        "projectUniqueName": "D:\\HocTap\\Project\\King_Fashion\\KingFashion\\KingFashion\\KingFashion.csproj",
         "projectName": "KingFashion",
-        "projectPath": "D:\\HocTap\\Project\\KingFashion\\KingFashion\\KingFashion.csproj",
+        "projectPath": "D:\\HocTap\\Project\\King_Fashion\\KingFashion\\KingFashion\\KingFashion.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\HocTap\\Project\\KingFashion\\KingFashion\\obj\\",
+        "outputPath": "D:\\HocTap\\Project\\King_Fashion\\KingFashion\\KingFashion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
