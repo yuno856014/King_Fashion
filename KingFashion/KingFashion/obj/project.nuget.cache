@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8hp4GirugYoECOjqfPfLx7Oc6TViCnd5JnsQjbfD2R2dClOBDObEChNDGolXMaFDC/ZRdI2mfYAE+A6remjjdQ==",
+  "dgSpecHash": "MlbMgPck7sE+z3P5Kth++Kz8WJotXww3/F8WvxOuj4ypPfoWlYtM51+UQL/yFxrU6XvrtQamYmQZ7tC5LyPNLQ==",
   "success": true,
-  "projectFilePath": "D:\\HocTap\\Project\\KingFashion\\KingFashion\\KingFashion.csproj",
+  "projectFilePath": "D:\\HocTap\\Project\\King_Fashion\\KingFashion\\KingFashion\\KingFashion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

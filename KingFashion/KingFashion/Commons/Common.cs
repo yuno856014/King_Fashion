@@ -7,6 +7,6 @@ namespace KingFashion.Commons
 {
     public static class Common
     {
-        public static string ApiUrl = "" 
+        public static string ApiUrl = @"https://localhost:44315/api/";
     }
 }
